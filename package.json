@@ -1,0 +1,19 @@
+{
+  "name": "play_moore_golf",
+  "version": "1.0.0",
+  "description": "Golfing Application that will allow users to track scores.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamoore4579/Play_Moore_Golf.git"
+  },
+  "author": "Jason Moore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamoore4579/Play_Moore_Golf/issues"
+  },
+  "homepage": "https://github.com/jamoore4579/Play_Moore_Golf#readme"
+}
